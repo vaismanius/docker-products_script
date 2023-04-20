@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Still need to add Linux distro checker because right now this will work in ubuntu alone
+# might have issues when running for the first time 
 
 # Installing docker 
 sudo apt update
